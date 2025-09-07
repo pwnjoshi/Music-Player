@@ -28,7 +28,6 @@
 </p>
 
 <p align="center">
-  <a href="#-demo">View Demo</a> •
   <a href="#-features">Features</a> •
   <a href="#-installation">Installation</a> •
   <a href="#-usage">Usage</a> •
@@ -40,22 +39,6 @@
 <br>
 
 Built with modern **HTML5**, **CSS3**, and **JavaScript**, this music player features a sleek design with intuitive controls and a user-friendly interface perfect for any music streaming application.
-
-</div>
-
-## 🎯 Demo
-
-> **Live Preview**: Open `index.html` in your browser to see the music player in action!
-
-<div align="center">
-
-### 📱 Responsive Design Preview
-
-| Desktop | Tablet | Mobile |
-|---------|--------|--------|
-| ![Desktop Preview](https://via.placeholder.com/300x200/4a90e2/white?text=Desktop+View) | ![Tablet Preview](https://via.placeholder.com/200x200/4a90e2/white?text=Tablet+View) | ![Mobile Preview](https://via.placeholder.com/150x200/4a90e2/white?text=Mobile+View) |
-
-*Screenshots coming soon! 📸*
 
 </div>
 

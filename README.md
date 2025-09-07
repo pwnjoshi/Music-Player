@@ -148,24 +148,6 @@ Music-Player/
 └── 🤝 CONTRIBUTING.md    # Contribution guidelines
 ```
 
-## 🎨 Design System
-
-<div align="center">
-
-### Color Palette
-
-| Primary | Secondary | Accent | Background |
-|---------|-----------|--------|------------|
-| ![#4a90e2](https://via.placeholder.com/50x30/4a90e2/000000?text=+) `#4a90e2` | ![#ffffff](https://via.placeholder.com/50x30/ffffff/000000?text=+) `#ffffff` | ![#333333](https://via.placeholder.com/50x30/333333/ffffff?text=+) `#333333` | ![#e0e0e0](https://via.placeholder.com/50x30/e0e0e0/000000?text=+) `#e0e0e0` |
-
-### Typography
-
-- **Font Family**: Arial, sans-serif
-- **Font Weights**: Regular (400), Bold (700)
-- **Font Sizes**: 14px - 24px
-
-</div>
-
 ## 🔮 Roadmap & Future Enhancements
 
 <div align="center">

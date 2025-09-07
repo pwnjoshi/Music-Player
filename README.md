@@ -1,6 +1,41 @@
+<div align="center">
+
 # 🎵 Music Player
 
-A beautiful and responsive web-based music player interface built with modern HTML, CSS, and JavaScript. This project features a sleek design with intuitive controls and a user-friendly interface.
+<p align="center">
+  <strong>A beautiful and responsive web-based music player interface</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" alt="Font Awesome" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/license/pwnjoshi/Music-Player?style=flat-square" alt="License" />
+  <img src="https://img.shields.io/github/stars/pwnjoshi/Music-Player?style=flat-square" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/pwnjoshi/Music-Player?style=flat-square" alt="Forks" />
+  <img src="https://img.shields.io/github/issues/pwnjoshi/Music-Player?style=flat-square" alt="Issues" />
+  <img src="https://img.shields.io/github/last-commit/pwnjoshi/Music-Player?style=flat-square" alt="Last Commit" />
+</p>
+
+<p align="center">
+  <a href="#-demo">View Demo</a> •
+  <a href="#-features">Features</a> •
+  <a href="#-installation">Installation</a> •
+  <a href="#-usage">Usage</a> •
+  <a href="#-contributing">Contributing</a>
+</p>
+
+---
+
+<br>
+
+Built with modern HTML5, CSS3, and JavaScript, this music player features a sleek design with intuitive controls and a user-friendly interface perfect for any music streaming application.
+
+</div>
 
 ## ✨ Features
 

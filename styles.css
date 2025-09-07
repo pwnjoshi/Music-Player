@@ -1,0 +1,195 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+body{
+  font-family: Arial, sans-serif;
+  background: #4a90e2;
+  height: 850px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.player-container{
+  width: 400px;
+  background: white ;
+  border-radius: 20px;
+  padding:30px;
+
+}
+
+.album-art{
+  width:100%;
+  height: 300px;
+  background: url('src/pawan-papon.png');
+  background-size: cover;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 48px;
+  margin-bottom: 20px;
+
+}
+
+.song-info{
+  text-align: center;
+  margin-bottom: 30px;
+
+}
+
+.song-title{
+  font-size: 24px;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 5px;
+
+}
+
+.artist-name{
+  font-size: 16px;
+  color: darkgrey;
+
+}
+
+.progress-section{
+  margin-bottom: 30px;
+}
+
+.progress-bar{
+  width: 100%;
+  height: 6px;
+  background: #e0e0e0;
+  border-radius: 3px;
+  margin-bottom: 10px;
+  position: relative;
+
+}
+
+.progress-fill{
+  width: 140px;
+  height: 100%;
+  background: #4a90e2;
+  border-radius: 3px;
+  position: relative;
+
+}
+
+.progress-dot{
+  width: 14px;
+  height: 14px;
+  background: #ffffff;
+  border-radius: 50%;
+  position: absolute;
+  right: -7px;
+  top: -4px;
+
+}
+
+.time-info{
+  display: flex;
+  justify-content: space-between;
+  color: #666666;
+  font-size: 14px;
+  
+}
+
+.controls{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap:20px;
+}
+
+.control-btn{
+  width: 60px;
+  height: 60px;
+  background: #4a90e2;
+  color: white;
+  border:none;
+  border-radius: 50%;
+  font-size: 20px;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.play-btn{
+  width:80px;
+  height:80px;
+  background: #333333;
+  font-size: 24px;
+  
+}
+
+.btn{
+  width: 40px;
+  height:40px;
+  background: #4a90e2;
+  color: white;
+  font-size: 16px;
+  border:none;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.additional-controls{
+  display: flex;
+  justify-content: center;
+  gap:15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+
+.volume-icon{
+  font-size: 18px;
+  color: #666666;
+
+}
+
+.volume-bar{
+  width:280px;
+  height:4px;
+  background: #e0e0e0;
+  border-radius: 2px;
+  position: relative;
+
+}
+
+.volume-fill{
+  width:160px;
+  height:100%;
+  background: #4a90e2;
+  border-radius: 2px;
+  position: relative;
+
+}
+
+.volume-dot{
+  width: 12px;
+  height: 12px;
+  background: #ffffff;
+  border-radius: 50%;
+  position:absolute;
+  right:-6px;
+  top:-4px;
+
+}
+.volume-controls{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+
+
+}
